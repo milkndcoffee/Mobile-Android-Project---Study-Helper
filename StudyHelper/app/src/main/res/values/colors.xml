@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_800">#D67979</color>
+    <color name="blue_900">#DF6D6D</color>
+    <color name="blue_400">#CD8383</color>
+    <color name="white_bg">#D1C7C7</color>
+
+    <!-- dark theme -->
+    <color name="gray">#393A3A</color>
+    <color name="black">#000</color>
+    <color name="gray_200">#EEE</color>
+    <color name="gray_400">#BBB</color>
+    <color name="gray_500">#999</color>
+    <color name="gray_700">#555</color>
+
+    <!--
+    <array name="subjectColors">
+        <item>#1A237E</item>
+        <item>#880E4F</item>
+        <item>#006064</item>
+        <item>#F57F17</item>
+        <item>#BF360C</item>
+        <item>#01579B</item>
+        <item>#33691E</item>
+        <item>#4A148C</item>
+        <item>#B71C1C</item>
+    </array>
+    -->
+
+    <array name="subjectColors">
+        <item>#41476A</item>
+        <item>#415E6A</item>
+        <item>#416A50</item>
+        <item>#4C6A41</item>
+        <item>#6A4641</item>
+        <item>#59416A</item>
+        <item>#67416A</item>
+        <item>#6A414F</item>
+        <item>#6A5641</item>
+    </array>
+
+</resources>
